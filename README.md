@@ -1,3 +1,7 @@
+
+#This is forked from offical repo for using on mac, as Dcoker for mac can only access a container if it binded to 0.0.0.0
+
+
 # About this Repo
 
 This is the Git repo of the Docker [official image](https://docs.docker.com/docker-hub/official_repos/) for [postgres](https://registry.hub.docker.com/_/postgres/). See [the Docker Hub page](https://registry.hub.docker.com/_/postgres/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
