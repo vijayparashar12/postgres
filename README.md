@@ -1,5 +1,8 @@
 
-#This is forked from offical repo for using on mac, as Dcoker for mac can only access a container if it binded to 0.0.0.0
+#This is forked from offical repo for using on mac.
+
+ Due to the limitation of Dcoker for mac as it cannot directly access contaier.
+ Work arount for the limitation is if service running in container binds it self to  0.0.0.0
 
 
 # About this Repo
