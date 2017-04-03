@@ -1,8 +1,13 @@
 
-#This is forked from offical repo for using on mac.
+# This is forked from offical repo for using on mac.
 
- Due to the limitation of Dcoker for mac as it cannot directly access contaier.
- Work arount for the limitation is if service running in container binds it self to  0.0.0.0
+ Due to the [limitation](https://docs.docker.com/docker-for-mac/networking/#known-limitations-use-cases-and-workarounds) of Dcoker for Mac, host cannot directly connect to docker contaier.
+
+# work around
+
+ Host can only connect to container if binds itself to 0.0.0.0 network interface
+
+I have only changed in 9.6 version so please try to use that.
 
 
 # About this Repo
