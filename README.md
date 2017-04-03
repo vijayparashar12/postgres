@@ -5,7 +5,7 @@
 
 # work around
 
- Host can only connect to container if binds itself to 0.0.0.0 network interface
+ Host can only connect to container if container binds itself to 0.0.0.0 network interface
 
 I have only changed in 9.6 version so please try to use that.
 
